@@ -43,7 +43,6 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
 - [Montserrat](https://fonts.google.com/specimen/Montserrat) - Font used for headings and buttons
 - [Fraunces](https://fonts.google.com/specimen/Fraunces) - Font used for product name and price
